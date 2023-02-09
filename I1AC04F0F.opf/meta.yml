@@ -1,0 +1,16 @@
+id: I1AC04F0F
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 15:03:57.221027
+last_modified: 2023-02-09 15:03:57.221137
+source_metadata:
+  title: 'MSV 1,04: Varṣāvastu'
+  language: zh
+bases:
+  BAF4:
+    base_file: BAF4.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''

@@ -1,0 +1,23 @@
+id: c8ecf32202a5452ab72d934e89ce6619
+annotation_type: index
+revision: '00001'
+annotations:
+  352a0d093a2b439ebb014b7c2c34d6fa:
+    base: BAF4.txt
+    Chapters:
+    - title: Piṇḍoddāna
+      span:
+        start: 0
+        end: 28
+    - title: Uddāna 1
+      span:
+        start: 29
+        end: 4591
+    - title: Uddāna 2
+      span:
+        start: 4592
+        end: 6287
+    - title: Uddāna 3
+      span:
+        start: 6288
+        end: 7169
